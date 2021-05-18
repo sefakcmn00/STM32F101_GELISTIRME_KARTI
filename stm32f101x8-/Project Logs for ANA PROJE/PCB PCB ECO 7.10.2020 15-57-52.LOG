@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetB2_1 Pin=U3-32
+Change Component Description : Designator=U2 Old Description=3.3V  REGÜLATÖR New Description=3.3V  REGÜLATÖR 
+Change Component Description : Designator=U1 Old Description=5V REGÜLATÖR DPAK New Description= 5V REGÜLATÖR DPAK
+Change Component Description : Designator=J2 Old Description=SD HOLDER New Description= SD HOLDER
+Added Pin To Net: NetName=NetB2_1 Pin=U3-46

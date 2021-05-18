@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J7 NewDesignator=J6
+Change Component Designator: OldDesignator=J8 NewDesignator=J7
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Description : Designator=U2 Old Description=3.3V  REGÜLATÖR New Description=3.3V  REGÜLATÖR 
+Change Component Description : Designator=U1 Old Description=5V REGÜLATÖR DPAK New Description= 5V REGÜLATÖR DPAK
+Change Component Description : Designator=J2 Old Description=SD HOLDER New Description= SD HOLDER
+Change Net Name : Old Net Name=NetJ3_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ3_4 New Net Name=NetJ4_4
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ4_4 New Net Name=NetJ5_4
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ3_1
+Added Member To Class: ClassName=ÞEMATÝK1 Member=Component U5 BMP280

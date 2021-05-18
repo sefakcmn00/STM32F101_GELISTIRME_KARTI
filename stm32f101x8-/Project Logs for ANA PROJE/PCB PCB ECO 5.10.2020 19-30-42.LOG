@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=*1-1
+Removed Pin From Net: NetName=GND Pin=*1-2
+Removed Member From Class: ClassName=ÞEMATÝK1 Member=*1
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Added Component: Designator=J6(KLEMENS 1*2 / 3.5mm)
+Added Component: Designator=J8(KLEMENS 1*2 / 3.5mm)
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=5V Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=ÞEMATÝK1 Member=Component * MPU6050
+Added Member To Class: ClassName=ÞEMATÝK1 Member=Component J6 KLEMENS
+Added Member To Class: ClassName=ÞEMATÝK1 Member=Component J8 KLEMENS
